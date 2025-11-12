@@ -280,7 +280,7 @@ const Index = () => {
             
             <div className="bg-card p-8 rounded-2xl shadow-xl border-2 border-primary/20">
               <div className="text-sm text-muted-foreground mb-2">Investimento único de</div>
-              <div className="text-5xl font-bold text-primary mb-6">R$ 97,00</div>
+              <div className="text-5xl font-bold text-primary mb-6">R$ 39,90</div>
               <Button 
                 size="lg" 
                 className="text-xl px-12 py-8 bg-primary hover:bg-primary/90 shadow-[var(--shadow-soft)] hover:shadow-[var(--shadow-glow)] transition-all duration-300 w-full md:w-auto"

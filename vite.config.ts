@@ -7,7 +7,7 @@ import { componentTagger } from "lovable-tagger";
 export default defineConfig(({ mode }) => ({
   // IMPORTANTE: Substitua 'seu-repo' pelo nome do seu repositório GitHub
   // Se estiver usando username.github.io (sem subpasta), use base: '/'
-  base: '/baby-recipe-genius/',
+  base: 'baby-recipe-genius/',
   server: {
     host: "::",
     port: 8080,

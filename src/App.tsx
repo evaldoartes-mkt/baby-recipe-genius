@@ -7,7 +7,7 @@ import Index from "./pages/Index";
 import Privacidade from "./pages/Privacidade";
 import Termos from "./pages/Termos";
 import NotFound from "./pages/NotFound";
-
+ 
 const queryClient = new QueryClient();
 
 const App = () => (

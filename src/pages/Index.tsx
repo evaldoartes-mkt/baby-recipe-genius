@@ -6,7 +6,7 @@ import heroImage from "@/assets/baby-eating-hero.jpg";
 import babyFirstFood from "@/assets/baby-first-food.jpg";
 import babyHappyMeal from "@/assets/baby-happy-meal.jpg";
 import babyMessyFace from "@/assets/baby-messy-face.jpg";
-
+ 
 const AFFILIATE_LINK = "https://go.hotmart.com/P102760337U?redirectionUrl=https%3A%2F%2Fcrescendosaudavel.com.br%2Freceitas-para-bebes-black-novembro";
 const CHECKOUT_LINK = "https://go.hotmart.com/P102760337U?ap=9f82&redirectionUrl=https%3A%2F%2Fpay.hotmart.com%2FH86343822E%3Foff%3Dy77ya5bk%26checkoutMode%3D10";
 
